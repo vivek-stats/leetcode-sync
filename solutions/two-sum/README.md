@@ -3,7 +3,7 @@
 - **Problem ID:** `two-sum`
 - **Difficulty:** Easy
 - **Topics:** Array, Hash Table
-- **Validated & Synced:** 2026-10-30 23:16:58 UTC
+- **Validated:** 2026-10-28 11:26:54 UTC
 
 ## Sandboxed Validation Summary
 Solutions were executed and verified in an isolated Docker sandbox with zero network access.
